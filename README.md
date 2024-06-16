@@ -14,9 +14,11 @@ To Create the application run:
 Now run:
 
   cd weather-app
+  
 To install dependencies:
 
   npm install
+  
 To preview the application run:
 
   npm run dev
